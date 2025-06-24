@@ -1,0 +1,72 @@
+[
+  {
+    "Año":2005,
+    "Est. ONU (millones)":6542,
+    "Diferencia":"–",
+    "USCB est. (millones)":6473,
+    "Diferencia.1":"–"
+  },
+  {
+    "Año":2010,
+    "Est. ONU (millones)":6957,
+    "Diferencia":"415",
+    "USCB est. (millones)":6866,
+    "Diferencia.1":"393"
+  },
+  {
+    "Año":2015,
+    "Est. ONU (millones)":7380,
+    "Diferencia":"423",
+    "USCB est. (millones)":7256,
+    "Diferencia.1":"390"
+  },
+  {
+    "Año":2020,
+    "Est. ONU (millones)":7795,
+    "Diferencia":"415",
+    "USCB est. (millones)":7643,
+    "Diferencia.1":"380"
+  },
+  {
+    "Año":2025,
+    "Est. ONU (millones)":8184,
+    "Diferencia":"390",
+    "USCB est. (millones)":8007,
+    "Diferencia.1":"363"
+  },
+  {
+    "Año":2030,
+    "Est. ONU (millones)":8549,
+    "Diferencia":"364",
+    "USCB est. (millones)":8341,
+    "Diferencia.1":"334"
+  },
+  {
+    "Año":2035,
+    "Est. ONU (millones)":8888,
+    "Diferencia":"339",
+    "USCB est. (millones)":8646,
+    "Diferencia.1":"306"
+  },
+  {
+    "Año":2040,
+    "Est. ONU (millones)":9199,
+    "Diferencia":"311",
+    "USCB est. (millones)":8926,
+    "Diferencia.1":"280"
+  },
+  {
+    "Año":2045,
+    "Est. ONU (millones)":9482,
+    "Diferencia":"283",
+    "USCB est. (millones)":9180,
+    "Diferencia.1":"254"
+  },
+  {
+    "Año":2050,
+    "Est. ONU (millones)":9735,
+    "Diferencia":"253",
+    "USCB est. (millones)":9408,
+    "Diferencia.1":"228"
+  }
+]

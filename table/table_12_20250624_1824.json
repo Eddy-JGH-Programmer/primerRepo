@@ -1,0 +1,26 @@
+[
+  {
+    "Región":"Asia",
+    "Edad media":"31 años de edad"
+  },
+  {
+    "Región":"África",
+    "Edad media":"18 años de edad"
+  },
+  {
+    "Región":"Europa",
+    "Edad media":"42 años de edad"
+  },
+  {
+    "Región":"América del Norte",
+    "Edad media":"35 años de edad"
+  },
+  {
+    "Región":"América del Sur",
+    "Edad media":"31 años de edad"
+  },
+  {
+    "Región":"Oceanía",
+    "Edad media":"33 años de edad"
+  }
+]

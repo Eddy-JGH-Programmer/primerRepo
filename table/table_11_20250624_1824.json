@@ -1,0 +1,212 @@
+[
+  {
+    "Año":2000,
+    "Mundo":"6144",
+    "Asia":"3741 (60.9%)",
+    "África":"811 (13.2%)",
+    "Europa":"726 (11.8%)",
+    "Latinoamérica\/Caribe":"522 (8.5%)",
+    "América Norteña":"312 (5.1%)",
+    "Oceanía":"31 (0.5%)"
+  },
+  {
+    "Año":2005,
+    "Mundo":"6542",
+    "Asia":"3978 (60.8%)",
+    "África":"916 (14.0%)",
+    "Europa":"729 (11.2%)",
+    "Latinoamérica\/Caribe":"558 (8.5%)",
+    "América Norteña":"327 (5.0%)",
+    "Oceanía":"34 (0.5%)"
+  },
+  {
+    "Año":2010,
+    "Mundo":"6957",
+    "Asia":"4210 (60.5%)",
+    "África":"1039 (14.9%)",
+    "Europa":"736 (10.6%)",
+    "Latinoamérica\/Caribe":"591 (8.5%)",
+    "América Norteña":"343 (4.9%)",
+    "Oceanía":"37 (0.5%)"
+  },
+  {
+    "Año":2015,
+    "Mundo":"7380",
+    "Asia":"4434 (60.1%)",
+    "África":"1182 (16.0%)",
+    "Europa":"743 (10.1%)",
+    "Latinoamérica\/Caribe":"624 (8.5%)",
+    "América Norteña":"357 (4.8%)",
+    "Oceanía":"40 (0.5%)"
+  },
+  {
+    "Año":2020,
+    "Mundo":"7795",
+    "Asia":"4641 (59.5%)",
+    "África":"1341 (17.2%)",
+    "Europa":"748 (9.6%)",
+    "Latinoamérica\/Caribe":"654 (8.4%)",
+    "América Norteña":"369 (4.7%)",
+    "Oceanía":"43 (0.6%)"
+  },
+  {
+    "Año":2025,
+    "Mundo":"8184",
+    "Asia":"4823 (58.9%)",
+    "África":"1509 (18.4%)",
+    "Europa":"746 (9.1%)",
+    "Latinoamérica\/Caribe":"682 (8.3%)",
+    "América Norteña":"380 (4.6%)",
+    "Oceanía":"45 (0.6%)"
+  },
+  {
+    "Año":2030,
+    "Mundo":"8549",
+    "Asia":"4974 (58.2%)",
+    "África":"1688 (19.8%)",
+    "Europa":"741 (8.7%)",
+    "Latinoamérica\/Caribe":"706 (8.3%)",
+    "América Norteña":"391 (4.6%)",
+    "Oceanía":"48 (0.6%)"
+  },
+  {
+    "Año":2035,
+    "Mundo":"8888",
+    "Asia":"5096 (57.3%)",
+    "África":"1878 (21.1%)",
+    "Europa":"735 (8.3%)",
+    "Latinoamérica\/Caribe":"726 (8.2%)",
+    "América Norteña":"401 (4.5%)",
+    "Oceanía":"50 (0.6%)"
+  },
+  {
+    "Año":2040,
+    "Mundo":"9199",
+    "Asia":"5189 (56.4%)",
+    "África":"2077 (22.6%)",
+    "Europa":"728 (7.9%)",
+    "Latinoamérica\/Caribe":"742 (8.1%)",
+    "América Norteña":"410 (4.5%)",
+    "Oceanía":"53 (0.6%)"
+  },
+  {
+    "Año":2045,
+    "Mundo":"9482",
+    "Asia":"5253 (55.4%)",
+    "África":"2282 (24.1%)",
+    "Europa":"720 (7.6%)",
+    "Latinoamérica\/Caribe":"754 (8.0%)",
+    "América Norteña":"418 (4.4%)",
+    "Oceanía":"55 (0.6%)"
+  },
+  {
+    "Año":2050,
+    "Mundo":"9735",
+    "Asia":"5290 (54.3%)",
+    "África":"2489 (25.6%)",
+    "Europa":"711 (7.3%)",
+    "Latinoamérica\/Caribe":"762 (7.8%)",
+    "América Norteña":"425 (4.4%)",
+    "Oceanía":"57 (0.6%)"
+  },
+  {
+    "Año":2055,
+    "Mundo":"9958",
+    "Asia":"5302 (53.2%)",
+    "África":"2698 (27.1%)",
+    "Europa":"700 (7.0%)",
+    "Latinoamérica\/Caribe":"767 (7.7%)",
+    "América Norteña":"432 (4.3%)",
+    "Oceanía":"60 (0.6%)"
+  },
+  {
+    "Año":2060,
+    "Mundo":"10 152",
+    "Asia":"5289 (52.1%)",
+    "África":"2905 (28.6%)",
+    "Europa":"689 (6.8%)",
+    "Latinoamérica\/Caribe":"768 (7.6%)",
+    "América Norteña":"439 (4.3%)",
+    "Oceanía":"62 (0.6%)"
+  },
+  {
+    "Año":2065,
+    "Mundo":"10 318",
+    "Asia":"5256 (51.0%)",
+    "África":"3109 (30.1%)",
+    "Europa":"677 (6.6%)",
+    "Latinoamérica\/Caribe":"765 (7.4%)",
+    "América Norteña":"447 (4.3%)",
+    "Oceanía":"64 (0.6%)"
+  },
+  {
+    "Año":2070,
+    "Mundo":"10 459",
+    "Asia":"5207 (49.8%)",
+    "África":"3308 (31.6%)",
+    "Europa":"667 (6.4%)",
+    "Latinoamérica\/Caribe":"759 (7.3%)",
+    "América Norteña":"454 (4.3%)",
+    "Oceanía":"66 (0.6%)"
+  },
+  {
+    "Año":2075,
+    "Mundo":"10 577",
+    "Asia":"5143 (48.6%)",
+    "África":"3499 (33.1%)",
+    "Europa":"657 (6.2%)",
+    "Latinoamérica\/Caribe":"750 (7.1%)",
+    "América Norteña":"461 (4.4%)",
+    "Oceanía":"67 (0.6%)"
+  },
+  {
+    "Año":2080,
+    "Mundo":"10 674",
+    "Asia":"5068 (47.5%)",
+    "África":"3681 (34.5%)",
+    "Europa":"650 (6.1%)",
+    "Latinoamérica\/Caribe":"739 (6.9%)",
+    "América Norteña":"468 (4.4%)",
+    "Oceanía":"69 (0.7%)"
+  },
+  {
+    "Año":2085,
+    "Mundo":"10 750",
+    "Asia":"4987 (46.4%)",
+    "África":"3851 (35.8%)",
+    "Europa":"643 (6.0%)",
+    "Latinoamérica\/Caribe":"726 (6.8%)",
+    "América Norteña":"474 (4.4%)",
+    "Oceanía":"71 (0.7%)"
+  },
+  {
+    "Año":2090,
+    "Mundo":"10 810",
+    "Asia":"4901 (45.3%)",
+    "África":"4008 (37.1%)",
+    "Europa":"638 (5.9%)",
+    "Latinoamérica\/Caribe":"711 (6.6%)",
+    "América Norteña":"479 (4.4%)",
+    "Oceanía":"72 (0.7%)"
+  },
+  {
+    "Año":2095,
+    "Mundo":"10 852",
+    "Asia":"4812 (44.3%)",
+    "África":"4152 (38.3%)",
+    "Europa":"634 (5.8%)",
+    "Latinoamérica\/Caribe":"696 (6.4%)",
+    "América Norteña":"485 (4.5%)",
+    "Oceanía":"74 (0.7%)"
+  },
+  {
+    "Año":2100,
+    "Mundo":"10 875",
+    "Asia":"4719 (43.4%)",
+    "África":"4280 (39.4%)",
+    "Europa":"630 (5.8%)",
+    "Latinoamérica\/Caribe":"680 (6.3%)",
+    "América Norteña":"491 (4.5%)",
+    "Oceanía":"75 (0.7%)"
+  }
+]

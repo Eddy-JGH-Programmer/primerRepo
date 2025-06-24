@@ -1,0 +1,83 @@
+[
+  {
+    "Región":"África Subsahariana",
+    "2022":1152,
+    "(porcentaje)":"(14.51 %)",
+    "2030":1401,
+    "(porcentaje).1":"(16.46 %)",
+    "2050":2094,
+    "(porcentaje).2":"(21.62 %)"
+  },
+  {
+    "Región":"África del Norte y Asia occidental",
+    "2022":549,
+    "(porcentaje)":"(6.91 %)",
+    "2030":617,
+    "(porcentaje).1":"(7.25 %)",
+    "2050":771,
+    "(porcentaje).2":"(7.96 %)"
+  },
+  {
+    "Región":"Asia Central y Sur de Asia",
+    "2022":2075,
+    "(porcentaje)":"(26.13 %)",
+    "2030":2248,
+    "(porcentaje).1":"(26.41 %)",
+    "2050":2575,
+    "(porcentaje).2":"(26.58 %)"
+  },
+  {
+    "Región":"Asia Oriental y Sudeste de Asia",
+    "2022":2342,
+    "(porcentaje)":"(29.49 %)",
+    "2030":2372,
+    "(porcentaje).1":"(27.87 %)",
+    "2050":2317,
+    "(porcentaje).2":"(23.92 %)"
+  },
+  {
+    "Región":"Europa, EE. UU. y Canadá",
+    "2022":1120,
+    "(porcentaje)":"(14.10 %)",
+    "2030":1129,
+    "(porcentaje).1":"(13.26 %)",
+    "2050":1125,
+    "(porcentaje).2":"(11.61 %)"
+  },
+  {
+    "Región":"América Latina y el Caribe",
+    "2022":658,
+    "(porcentaje)":"(8.29 %)",
+    "2030":695,
+    "(porcentaje).1":"(8.17 %)",
+    "2050":749,
+    "(porcentaje).2":"(7.73 %)"
+  },
+  {
+    "Región":"Australia\/Nueva Zelanda",
+    "2022":31,
+    "(porcentaje)":"(0.39 %)",
+    "2030":34,
+    "(porcentaje).1":"(0.40 %)",
+    "2050":38,
+    "(porcentaje).2":"(0.39 %)"
+  },
+  {
+    "Región":"Oceanía",
+    "2022":14,
+    "(porcentaje)":"(0.18 %)",
+    "2030":15,
+    "(porcentaje).1":"(0.18 %)",
+    "2050":20,
+    "(porcentaje).2":"(0.21 %)"
+  },
+  {
+    "Región":"Mundo",
+    "2022":7942,
+    "(porcentaje)":null,
+    "2030":8512,
+    "(porcentaje).1":null,
+    "2050":9687,
+    "(porcentaje).2":null
+  }
+]
